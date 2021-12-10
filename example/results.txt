@@ -1,0 +1,25 @@
+Initial data
+
+Number of weeks 3
+Number of days 7
+
+         1-day           2-day           3-day           4-day           5-day           6-day           7-day  
+ husband  10.40  husband  15.20     wife  50.50     wife 100.20    -----   0.00     wife  10.20    -----   0.00 
+    wife  15.30    -----   0.00    -----   0.00     wife  20.50  husband  55.50  husband  10.10     wife  30.30 
+ husband  10.10  husband  20.20  husband  30.30  husband  50.50  husband  20.10  husband  30.10  husband  30.10 
+
+Total expenditure: $509.60.
+Total expenditure of a husband: $282.60.
+Total expenditure of a wife: $227.00.
+
+Week no. 1 expenses $186.50.
+Week no. 2 expenses $131.70.
+Week no. 3 expenses $191.40.
+
+Monday expenses $35.80.
+Tuesday expenses $35.40.
+Wednesday expenses $80.80.
+Thursday expenses $171.20.
+Friday expenses $75.60.
+Saturday expenses $50.40.
+Sunday expenses $60.40.
