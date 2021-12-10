@@ -1,0 +1,5 @@
+3
+7
+husband; 10.40;husband; 15.20;wife; 50.50;wife; 100.20;-----; 0.0;wife; 10.20;-----; 0.0;
+wife; 15.30;-----; 0.0;-----;0.0;wife; 20.50;husband; 55.50;husband; 10.10;wife; 30.30;
+husband; 10.10;husband; 20.20;husband; 30.30;husband; 50.50;husband; 20.10;husband; 30.10;husband; 30.10;
